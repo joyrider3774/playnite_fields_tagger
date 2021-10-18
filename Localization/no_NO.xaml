@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">    
+	<sys:String x:Key="LOCGame_Field_Tagger_UpdateTags">Update Tags</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_Description">Description:</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_MissingFields">Missing Fields</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_HasFields">Has Fields</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_RemoveTags">Remove Tags</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_Fieldselection">Field selection:</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_Selectedgames">Selected Games</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_Allgames">All games in database</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_GameSelection">Game Selection:</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_MenuItemOpenMenuDescription">Open Fields Menu</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_ToolRemove">This tool will remove 'has' and 'missing' tags for the selected field from all selected games.</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_ToolHave">This tool will add a tag to all selected games that have the selected field filled in or where the boolean value is true.</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_ToolMissing">This tool will add a tag to all selected games that are missing the selected field or where it is empty or where the boolean value is false.</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_NoSelectedGamesMessage">No games are selected</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_Results1Message" xml:space="preserve">Finished. Games in selection: {0}
+
+Selected field: {1}
+Games missing selected field in selection: {2}</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_Results2Message" xml:space="preserve">Finished. Games in selection: {0}
+
+Selected field: {1}
+Games having selected field in selection: {2}</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_Results3Message">Games with tag '{0}' at finish: Selection {1}, All {2}</sys:String>
+</ResourceDictionary>

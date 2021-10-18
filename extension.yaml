@@ -1,0 +1,7 @@
+Id: Playnite_Fields_Tagger
+Name: Fields Tagger
+Author: Joyrider3774
+Version: 1.0
+Module: FieldsTagger.psm1
+Type: Script
+Icon: icon.png

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">    
+	<sys:String x:Key="LOCGame_Field_Tagger_UpdateTags">Tags Updaten</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_Description">Omschrijving:</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_MissingFields">Ontbrekende Velden</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_HasFields">Heeft Velden</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_RemoveTags">Tags Verwijderen</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_Fieldselection">Veld Selectie:</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_Selectedgames">Geselecteerde Spellen</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_Allgames">Alle spellen in de database</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_GameSelection">Spel Selectie:</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_MenuItemOpenMenuDescription">Open Velden Menu</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_ToolRemove">Deze tool zal ''heeft' en 'ontbrekende' tags verwijderen voor het geselecteerde veld van alle geselecteerde spellen.</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_ToolHave">Deze tool zal een tag toevoegen aan alle geselecteerde spellen waar het geselecteerde veld in zit of waar de booleaanse waarde waar is.</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_ToolMissing">Deze tool voegt een tag toe aan alle geselecteerde spellen die het geselecteerde veld missen, of waar het leeg is of waar de Booleaanse waarde onwaar is.</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_NoSelectedGamesMessage">Er zijn geen spellen geselecteerd</sys:String>
+    <sys:String x:Key="LOCGame_Field_Tagger_Results1Message" xml:space="preserve">Voltooid. Spellen in selectie: {0}
+
+Geselecteerd veld: {1}
+Spellen die het geselecteerde veld ontbreken in selectie: {2}</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_Results2Message" xml:space="preserve">Voltooid. Spellen selectie: {0}
+
+Geselecteerd veld: {1}
+Spellen die geselecteerde veld hebben in selectie: {2}</sys:String>
+	<sys:String x:Key="LOCGame_Field_Tagger_Results3Message">Spellen met tag '{0}' aan het einde: Selectie {1}, Alle {2}</sys:String>
+</ResourceDictionary>
