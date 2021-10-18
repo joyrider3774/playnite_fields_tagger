@@ -3,6 +3,7 @@ An Extension for [Playnite](https://www.playnite.link/) to tag games with "have"
 [Latest Release](https://github.com/joyrider3774/playnite_fields_tagger/releases/latest)
 
 ## Release / Help Video
+[![Playnite Fields Tagger V1.0](http://img.youtube.com/vi/eZH9h-oqw7w/0.jpg)](https://youtu.be/eZH9h-oqw7w "Playnite Fields Tagger V1.0")
 
 ## Translation
 The project is translatable on [Crowdin](https://crowdin.com/project/playnite-game-speak)
