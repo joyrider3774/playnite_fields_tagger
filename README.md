@@ -1,4 +1,6 @@
 # Playnite Fields Tagger
+![DownloadCountTotal](https://img.shields.io/github/downloads/joyrider3774/playnite_fields_tagger/total?label=total%20downloads&style=plastic) ![DownloadCountLatest](https://img.shields.io/github/downloads/joyrider3774/playnite_fields_tagger/latest/total?style=plastic) ![LatestVersion](https://img.shields.io/github/v/tag/joyrider3774/playnite_fields_tagger?label=Latest%20version&style=plastic) ![License](https://img.shields.io/github/license/joyrider3774/playnite_fields_tagger?style=plastic)
+
 An Extension for [Playnite](https://www.playnite.link/) to tag games with "have" or "missing" fields. To search for example for games that have no description set or games that have notes set etc
 [Latest Release](https://github.com/joyrider3774/playnite_fields_tagger/releases/latest)
 
